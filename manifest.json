@@ -1,0 +1,37 @@
+{
+  "name": "Horarios de trenes en Paris",
+  "short_name": "Horarios",
+  "icons": [{
+    "src": "/images/icons/train512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }, {
+    "src": "/images/icons/train256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+    "src": "/images/icons/train128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "/images/icons/train64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }, {
+      "src": "/images/icons/train32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }, {
+      "src": "/images/icons/train24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    }, {
+      "src": "/images/icons/train16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
